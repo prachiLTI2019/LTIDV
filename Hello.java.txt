@@ -9,4 +9,7 @@ public void m1()
 {
 }
 
+public viod m2()
+{
+}
 }
