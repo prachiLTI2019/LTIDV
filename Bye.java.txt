@@ -5,10 +5,14 @@ public class Bye
 
  	system.out.println("bye")
 }
+
  public viod m1()
 {
  
 
 }
 
-}
+
+public void m2()
+{
+}}
