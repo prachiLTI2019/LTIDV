@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css?family=Long+Cang|Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Long+Cang|Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Long+Cang|Monoton|Satisfy&display=swap');
+
+
+.background{
+    background-color:grey;
+
+}
+#myParagraph{
+    text-align:center;
+}
+div{
+    text-align:left;
+}
+.orange-background{
+    background-color:orange;
+
+
+}
+.green-background{
+    background-color:green;
+
+}
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50Spx;
+    font-family: 'Long Cang', cursive;
+}
+.text-format{
+text-align: center;
+text-decoration-style: dashed;
+text-transform: capitalize;
+text-indent: 50px;
+letter-spacing: 5px;
+direction:ltr;
+word-spacing: 10px;
+text-shadow: 1px 2px greenyellow;
+/* font-family: 'Satisfy', cursive;  */
+/* font-family: 'Great Vibes', cursive; */
+/* font-family: 'Monoton', cursive; */
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: chartreuse;
+    font-size:100px;
+}
+a:visited{
+    color: rgb(243, 18, 187);
+}
