@@ -1,0 +1,9 @@
+public class Bye
+{
+  public void display()
+{
+
+ 	system.out.println("bye")
+}
+
+}
